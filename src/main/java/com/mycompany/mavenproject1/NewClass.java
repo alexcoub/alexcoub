@@ -7,7 +7,7 @@ package com.mycompany.mavenproject1;
 
 /**
  *
- * @author acoubete
+ * @author acoubete test
  */
 public class NewClass {
     
